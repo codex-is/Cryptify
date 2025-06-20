@@ -23,7 +23,7 @@ For example, shifting `'A'` by 3 gives `'D'`. Decryption reverses this shift to 
 
 ## 🧪 Example
 
-Input: hello
+Input: hello<br>
 Encrypted: khoor
 
 ---
