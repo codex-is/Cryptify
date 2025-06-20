@@ -1,57 +1,41 @@
 # 🔐 Cryptify
 
-**Cryptify** is a simple Caesar Cipher-based tool for encrypting and decrypting messages.
-
-Supports:
-- 🔒 Encryption
-- 🔓 Decryption
-- 🛠 Custom shift key
+**Cryptify** is a simple encryption and decryption tool based on the classic **Caesar Cipher** algorithm.  
+It supports both encrypting and decrypting messages using a shift key.
 
 ---
 
-<details>
-<summary>📖 About Caesar Cipher</summary>
+## 📚 What is Caesar Cipher?
 
-The **Caesar Cipher** is a well-known encryption technique that shifts each character in a string by a fixed number of positions in the alphabet.  
-For example, shifting `'A'` by 3 becomes `'D'`. Decryption works by reversing the shift.
-
-</details>
+The **Caesar Cipher** is a basic encryption technique where each letter in the message is shifted by a fixed number of positions in the alphabet.  
+For example, shifting `'A'` by 3 gives `'D'`. Decryption reverses this shift to recover the original text.
 
 ---
 
-<details>
-<summary>🚀 Features</summary>
+## 🚀 Features
 
-- Encrypt any string using Caesar Cipher  
-- Decrypt messages with the correct shift key  
-- Simple and interactive CLI-based tool  
-- Written in Java
-
-</details>
+- Encrypts messages with a Caesar Cipher shift
+- Decrypts messages using the same shift key
+- Simple command-line interface
+- Built with Java
 
 ---
 
-<details>
-<summary>🛠 Example</summary>
+## 🧪 Example
 
 Input: hello
 Encrypted: khoor
 
-
-</details>
-
 ---
 
-<details>
-<summary>🧠 Future Plans</summary>
+## 🧠 Future Improvements
 
-- Add GUI support  
-- Implement more secure algorithms like AES  
-- Add file encryption support
-
-</details>
+- Add GUI interface  
+- Support for advanced encryption (e.g., AES)  
+- File encryption support
 
 ---
 
 ## 👨‍💻 Author
-Harsh Pardeshi
+
+**Harsh Pardeshi**
